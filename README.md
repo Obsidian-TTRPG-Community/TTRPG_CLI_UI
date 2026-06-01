@@ -1,5 +1,12 @@
 # TTRPG_CLI_UI
 
+---
+
+**📢 ANNOUNCEMENT**- [TTRPG-Convert-CLI-UI V2.0](https://github.com/Obsidian-TTRPG-Community/ttrpg-convert-cli-ui) is now available for testing. It supports Windows, macOS and Linux!
+This version will be retired after a period of testing confirms stability. 
+
+---
+
 See [Release](https://github.com/Obsidian-TTRPG-Community/TTRPG_CLI_UI/releases) for the latest version. 
 
 Download the release and then run Setup.exe
